@@ -161,3 +161,32 @@
   background: #5D3C28;
   text-align: center
 }
+
+.info {
+  height: 570px;
+}
+
+.info-content {
+  width: 1200px;
+  margin: auto;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.info-map {
+  padding-top: 62px;
+}
+
+
+footer {
+  height: 80px;
+  background: #210E03;
+}
+
+footer p {
+  text-align: center;
+  font-size: 12px;
+  color: #FEFEFE;
+  padding-top: 30px;
+}
