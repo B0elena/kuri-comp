@@ -32,6 +32,7 @@
   left: 162px;
   font-size: 24px;
   color: #FFFFFF;
+  width: 420px;
 }
 
 .greeting h1 {
@@ -56,6 +57,9 @@
 
 .midashi1 h1 {
   text-align: center;
+  margin-bottom: 60px;
+  font-family: NotoSansJP-Bold;
+  font-weight: normal;
 }
 
 .midashi1 ul {
@@ -69,4 +73,91 @@
 
 .midashi2 {
   height: 1277px;
+}
+
+.midashi2 h1 {
+  text-align: center;
+  padding: 160px 0 90px;
+  font-family: NotoSansJP-Bold;
+  font-weight: normal;
+}
+
+.midashi2 ul {
+}
+
+.midashi2 li {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 80px;
+}
+
+.midashi2 h2 {
+  padding: 45px 0 0 0;
+  font-family: NotoSansJP-Bold;
+  font-weight: normal;
+}
+
+.midashi2-text-a {
+  padding-left : 30px;
+}
+
+.midashi2-text-b {
+  padding-right: 30px;
+}
+
+.midashi2 p {
+  width: 615px;
+}
+
+.midashi2 button {
+  width: 240px;
+  height: 65px;
+  color: #FFFFFF;
+  background: #5D3C28;
+  text-align: center
+}
+
+.button {
+  text-align: end;
+}
+
+.midashi3 {
+  height: 750px;
+  background: #FCF5F1;
+}
+
+.midashi3 h1 {
+  text-align: center;
+  font-family: NotoSansJP-Bold;
+  font-weight: normal;
+  padding: 117px 0 50px;
+}
+
+.midashi3 div {
+  width: 1100px;
+  margin: auto;
+}
+
+.midashi3 time {
+  width: 100px;
+  padding-right: 70px;
+}
+
+.midashi3 li {
+  padding: 17px 0;
+  border-bottom: 1px dotted #707070;
+}
+
+.midashi3-buttom {
+  text-align: center;
+  margin-bottom: 120px;
+}
+
+.midashi3 button {
+  margin-top: 60px;
+  width: 240px;
+  height: 65px;
+  color: #FFFFFF;
+  background: #5D3C28;
+  text-align: center
 }
