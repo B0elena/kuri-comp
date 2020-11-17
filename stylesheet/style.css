@@ -166,6 +166,19 @@
   height: 570px;
 }
 
+.info-content {
+  width: 1200px;
+  margin: auto;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.info-map {
+  padding-top: 62px;
+}
+
+
 footer {
   height: 80px;
   background: #210E03;
