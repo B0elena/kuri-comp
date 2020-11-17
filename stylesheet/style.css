@@ -1,0 +1,72 @@
+.content-wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  margin: 21px 143px;
+}
+
+.content-wrapper h1 {
+  font-size: 36px;
+  color: #5D3C28;
+}
+
+.content-wrapper ul {
+  display: flex;
+}
+
+.content-wrapper li {
+  padding-left: 50px;
+}
+
+.mainvisual {
+  height: 600px;
+  width: auto;
+  background-image: url(../image/mv.jpg);
+  background-size: cover;
+}
+
+.mainvisual p {
+  position: relative;
+  top: 250px;
+  left: 162px;
+  font-size: 24px;
+  color: #FFFFFF;
+}
+
+.greeting h1 {
+  font-weight: normal;
+  font-family: NotoSansJP-Bold;
+  text-align: center;
+}
+
+.greeting div {
+  width: 800px;
+  margin: 140px auto;
+}
+
+.midashi1 {
+  background: #FCF5F1;
+  /* height: 741px; */
+}
+
+.midashi1 div {
+  padding: 118px 0 96px;
+}
+
+.midashi1 h1 {
+  text-align: center;
+}
+
+.midashi1 ul {
+  display: flex;
+}
+
+.midashi1 li {
+  width: 400px;
+  margin: auto ;
+}
+
+.midashi2 {
+  height: 1277px;
+}
