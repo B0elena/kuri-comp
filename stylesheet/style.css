@@ -161,3 +161,19 @@
   background: #5D3C28;
   text-align: center
 }
+
+.info {
+  height: 570px;
+}
+
+footer {
+  height: 80px;
+  background: #210E03;
+}
+
+footer p {
+  text-align: center;
+  font-size: 12px;
+  color: #FEFEFE;
+  padding-top: 30px;
+}
